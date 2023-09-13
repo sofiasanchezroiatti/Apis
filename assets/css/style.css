@@ -1,0 +1,111 @@
+.bg-color {
+   background-color: #2c3b42;
+}
+.contenedorTittle {
+   display: flex;
+   justify-content: center;
+}
+.tittle {
+   font-size: 2.5em;
+   color: white;
+}
+
+.hr {
+   color: #55b5e6;
+}
+
+.contenedorCard {
+   display: flex;
+   justify-content: center;
+}
+
+.card {
+   border-radius: 4px;
+   background-color: gray;
+   margin-bottom: 1em;
+}
+
+.bgGrafico {
+   background-color: white;
+}
+.contenedorGrafico {
+   display: flex;
+   justify-content: center;
+   padding: 50px;
+}
+
+.pesos {
+   display: flex;
+   justify-content: center;
+   color: white;
+}
+
+.contenedorInput {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   padding-bottom: 0.5em;
+}
+
+.inputDos {
+   border-radius: 4px;
+   border: none;
+   width: 75%;
+   text-align: center;
+   height: 28px;
+}
+.contenedorMoneda {
+   display: flex;
+   justify-content: center;
+   color: white;
+}
+.coin {
+   font-size: 1em;
+}
+
+.contenedorCoin {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-bottom: 0.5em;
+}
+
+.selectorCoin {
+   border-radius: 4px;
+   border: none;
+   text-align: center;
+   display: flex;
+   width: 205px;
+   height: 28px;
+   align-items: center;
+   justify-content: center;
+}
+.contenedorBtn {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-bottom: 0.5em;
+}
+.btn {
+   border-radius: 4px;
+   text-align: center;
+   display: flex;
+   width: 205px;
+   height: 28px;
+   align-items: center;
+   justify-content: center;
+   background-color: #55b5e6;
+}
+.btn:hover {
+   background-color: #407e9c;
+}
+.contenedorResultado {
+   display: flex;
+   justify-content: center;
+   color: white;
+}
+.error {
+   text-align: center;
+   color: red;
+}
